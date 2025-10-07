@@ -477,9 +477,9 @@ a {
     color: #4183c4;
     text-decoration: none
 }
-
+/* background-color was #fff */
 body {
-    background-color: #fff;
+    background-color: #001f3f;
     padding: 30px;
     margin: 15px;
     font-size: 14px;
