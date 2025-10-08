@@ -443,14 +443,14 @@ table {
     src: local('Roboto Thin'), local('Roboto-Thin'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
 }
 
-
+/* changing the colour of the letters in the website to white */
 html,
 body {
     margin: auto;
     padding-right: 1em;
     padding-left: 1em;
     max-width: 64em;
-    color: black;
+    color: white;
 }
 
 *:not('#mkdbuttons') {
@@ -479,7 +479,7 @@ a {
 }
 /* background-color was #fff */
 body {
-    background-color: #001f3f;
+    background-color: #212020;
     padding: 30px;
     margin: 15px;
     font-size: 14px;
@@ -515,7 +515,7 @@ h6 {
 
 h1 {
     font-size: 37px;
-    color: #000;
+    color: white;
     text-align: center
 }
 
